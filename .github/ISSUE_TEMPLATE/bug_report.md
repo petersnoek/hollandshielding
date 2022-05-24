@@ -10,6 +10,9 @@ assignees: ''
 **Beschrijf de bug**
 Een heldere en duidelijke omschrijving van wat er mis is.
 
+**Kwaliteitsattributen**
+Op welke kwaliteitsattributen schiet de software tekort?
+
 **Reproduceren**
 Welke stappen moet je zetten om de bug te zien optreden:
 1. Ga naar '...' (url)
